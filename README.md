@@ -1,4 +1,4 @@
-# Frequency Analysis Caesar Cipher Breaker
+# Frequency Analysis Caesar Cipher Breaker Fully Working in C
 
 This program utilizes frequency analysis to break Caesar's cipher, a simple substitution cipher where each letter in the plaintext is shifted a certain number of places down or up the alphabet. This brute force method tests all possible displacements and returns the most likely decryption of a text.
 
