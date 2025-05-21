@@ -1,4 +1,6 @@
-# Frequency Analysis Caesar Cipher Breaker Fully Working in C
+# Frequency Analysis Caesar Cipher Breaker — Fully Working in C
+
+> **Note:** At the time of writing the code, I originally planned to implement it in **C++**, but I realized it could be easily implemented in **simple C**, so I went ahead with that instead.
 
 This program utilizes frequency analysis to break Caesar's cipher, a simple substitution cipher where each letter in the plaintext is shifted a certain number of places down or up the alphabet. This brute force method tests all possible displacements and returns the most likely decryption of a text.
 
@@ -11,10 +13,11 @@ This program takes an encrypted text as input and applies frequency analysis to 
 ## Usage
 
 1. Clone the repository or download the source code.
-2. Ensure you have C++ installed on your system.
-3. Run the program by executing `caesarCipher.cpp`.
-4. Provide the encrypted text when prompted.
-5. The program will display the most likely decrypted text based on frequency analysis.
+2. Ensure you have a C compiler installed on your system (e.g., GCC).
+3. Compile the program: ```gcc caesarCipher.cpp```
+4. Run the program: ./a.out
+5. Provide the encrypted text when prompted.
+6. The program will display the most likely decrypted text based on frequency analysis.
 
 ## Example
 
