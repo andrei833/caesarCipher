@@ -15,7 +15,7 @@ This program takes an encrypted text as input and applies frequency analysis to 
 1. Clone the repository or download the source code.
 2. Ensure you have a C compiler installed on your system (e.g., GCC).
 3. Compile the program: ```gcc caesarCipher.cpp```
-4. Run the program: ./a.out
+4. Run the program: ```./a.out```
 5. Provide the encrypted text when prompted.
 6. The program will display the most likely decrypted text based on frequency analysis.
 
