@@ -11,7 +11,7 @@ This program takes an encrypted text as input and applies frequency analysis to 
 ## Usage
 
 1. Clone the repository or download the source code.
-2. Ensure you have Python installed on your system.
+2. Ensure you have C installed on your system.
 3. Run the program by executing `caesarCipher.cpp`.
 4. Provide the encrypted text when prompted.
 5. The program will display the most likely decrypted text based on frequency analysis.
